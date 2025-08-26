@@ -1,0 +1,21 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  width: 170px;
+  padding: 5px 0;
+}
+
+tr:nth-child(2n) {
+  background-color: #c9c9c9;
+}
+
+th {
+  background-color: #333333;
+  color: white;
+}

@@ -1,0 +1,17 @@
+.card-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.status {
+  font-size: 12px;
+}
